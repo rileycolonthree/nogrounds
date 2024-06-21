@@ -1,3 +1,6 @@
+# 1.0.2
+- Port to 2.206
+
 # 1.0.1
 ## (M336 Updated It!)
 - Added compatibility for Android and macOS
