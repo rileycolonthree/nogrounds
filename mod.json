@@ -17,9 +17,7 @@
 	"description": "Removes the Newgrounds button from the main menu",
 	"repository": "https://github.com/rileycolonthree/nogrounds",
 	"tags": [
-		"Interface",
-		"Cosmetic",
-		"MenuLayer"
+		"Interface"
 	  ],
 	"dependencies": [
         {
